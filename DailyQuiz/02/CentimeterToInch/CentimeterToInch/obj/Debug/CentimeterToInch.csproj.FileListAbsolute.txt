@@ -1,0 +1,15 @@
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.exe.config
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.exe
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.pdb
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.csproj.SuggestedBindingRedirects.cache
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.exe
+//Mac/Home/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.exe.config
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.exe
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/bin/Debug/CentimeterToInch.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.exe
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/02/CentimeterToInch/CentimeterToInch/obj/Debug/CentimeterToInch.pdb
