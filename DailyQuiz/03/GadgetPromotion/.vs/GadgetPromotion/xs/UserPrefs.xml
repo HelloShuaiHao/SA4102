@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{E06F20CE-FABA-44F3-92DC-E70A4C3308F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise A&amp;B/Program.cs">
+﻿<Properties StartupConfiguration="{EDD22737-8E76-4BB4-902A-6A3FED84C9D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GadgetPromotion/Program.cs">
     <Files>
-      <File FileName="Exercise A&amp;B/Program.cs" Line="114" Column="1" />
+      <File FileName="GadgetPromotion/Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Exercise A&amp;B">
-            <Node name="Exercise A&amp;B" expanded="True">
+          <Node name="GadgetPromotion" expanded="True">
+            <Node name="GadgetPromotion">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Exercise_220A_226B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GadgetPromotion PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

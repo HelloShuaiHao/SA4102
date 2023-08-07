@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/bin/Debug/net7.0/GadgetPromotion
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/bin/Debug/net7.0/GadgetPromotion.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/bin/Debug/net7.0/GadgetPromotion.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/bin/Debug/net7.0/GadgetPromotion.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/bin/Debug/net7.0/GadgetPromotion.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/refint/GadgetPromotion.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/GadgetPromotion.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/03/GadgetPromotion/GadgetPromotion/obj/Debug/net7.0/ref/GadgetPromotion.dll
