@@ -144,9 +144,14 @@ namespace Exercise_A_B
             }
             else
             {
+
                 double stemp = (side[0] + side[1] + side[2]) / 2;
                 Console.WriteLine("The area is:{0}", Math.Sqrt(stemp * (stemp - side[0]) * (stemp - side[1]) * (stemp - side[2])));
             }
+            
+            /// <summary>
+            /// 
+            /// </summary>
         }
     }
 
