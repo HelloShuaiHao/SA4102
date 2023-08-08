@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Text;
 namespace ExerciseCDEF;
 
 public class Solution
@@ -8,7 +8,8 @@ public class Solution
     {
         // ExerciseC.homeworkC();
         // ExerciseD.homeworkD();
-        ExerciseE.homeworkE();
+        // ExerciseE.homeworkE();
+        ExerciseF.homeworkF();
         return;
     }
 }
@@ -292,5 +293,146 @@ public class ExerciseE
         }
         if (checkSum == num) return true;
         else return false;
+    }
+}
+
+/// <summary>
+/// 1.ToLower() ToUpper()只能用于string类型
+/// 2.Trim() 用于清楚字符串前后内容 返回string; Split()分割字符串，返回数组
+/// 3.StringBuilder()需要using System.Text；
+/// 4.insertion sort里的while别忘了递减
+/// </summary>
+
+public class ExerciseF
+{
+    public static void homeworkF()
+    {
+        Console.WriteLine("We are programming tocount the number of vowels in a given phrase and print out the number of each vowel");
+        string phrase = Console.ReadLine();
+
+
+        Dictionary<string, int> dic = new Dictionary<string, int>();
+        dic["a"] = 0;
+        dic["e"] = 0;
+        dic["i"] = 0;
+        dic["o"] = 0;
+        dic["u"] = 0;
+
+        // usbstring one character ata time and match it to the vowels
+        int totalVowel = 0;
+
+        // use dictionary
+        
+        for(int i = 0; i < phrase.Length; i++)
+        {
+            string chr = phrase.Substring(i, 1);
+            if (dic.ContainsKey(chr))
+            {
+                dic[chr]++;
+                totalVowel++;
+            }
+        }
+        Console.WriteLine("total vowels: {0}", totalVowel);
+        foreach(string chr in dic.Keys)
+        {
+            Console.WriteLine($"number of {chr}: {dic[chr]}");
+        }
+
+        // not to use dictionary
+        /*
+        string vowelStrs = "aeiou";
+        for(int i = 0; i < phrase.Length; i++)
+        {
+            if (vowelStrs.Contains(phrase.Substring(i, 1))) totalVowel++;
+        }*/
+
+
+
+        Console.WriteLine("change the above line to lowercase and remove punctuation or space");
+        char[] c = new char[] { ',' , ' ' , '.' };
+        phrase = phrase.ToLower();
+        var words = phrase.Split(c);
+        StringBuilder Removal = new StringBuilder();
+        foreach (string w in words) Removal.Append(w);
+        Console.WriteLine(Removal);
+
+
+
+
+
+
+
+        Console.WriteLine("\nOK, let's check if a number is palindrome\nPlease enter a word");
+        string word = Console.ReadLine();
+        int l = 0, r = word.Length - 1;
+        bool isPalindrome = true;
+        while (l <= r)
+        {
+            if (word[l] != word[r]) isPalindrome = false;
+            l++;
+            r--;
+        }
+        if (isPalindrome) Console.WriteLine($"{word} is a palindrome\n");
+        else Console.WriteLine("Not a palindrome\n");
+
+
+        ///
+        ///
+        /// 
+        ///
+
+        Console.WriteLine("Please enter a phrase or sentence, I will change it to the title case");
+        string line = Console.ReadLine();
+        line = line.Trim();
+
+        StringBuilder ans = new StringBuilder();
+
+        bool nextUpper = true;
+        for(int i = 0; i < line.Length; i++)
+        {
+            // 碰到新的空格
+            if (line[i] == ' ')
+            {
+                ans.Append(' ');
+
+                nextUpper = true;
+                continue;
+            }
+
+            if(nextUpper == true)
+            {
+                ans.Append(line.Substring(i, 1).ToUpper());
+                nextUpper = false;
+            }
+            else
+            {
+                ans.Append(line.Substring(i, 1));
+            }
+        }
+        Console.WriteLine(ans.ToString()+"\n");
+
+
+
+        Console.WriteLine("Good, let's do some ranking");
+        string[] names = new string[] { "John", "Venkat", "Mary", "Victor", "Betty" };
+        int[] marks = new int[] { 63, 29, 75, 82, 55 };
+        Console.WriteLine("Let's sort based on our marks first");
+        int n = marks.Length;
+        for(int i = 1; i < n; i++)
+        {
+            int j = i - 1;
+            while(j>=0 && marks[j] < marks[j + 1])
+            {
+                int tmark = marks[j];
+                marks[j] = marks[j + 1];
+                marks[j + 1] = tmark;
+
+                string tname = names[j];
+                names[j] = names[j + 1];
+                names[j + 1] = tname;
+            }
+        }
+        for (int i = 0; i < n; i++) Console.WriteLine($"{names[i]}: {marks[i]}");
+       
     }
 }
