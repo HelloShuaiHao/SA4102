@@ -430,9 +430,48 @@ public class ExerciseF
                 string tname = names[j];
                 names[j] = names[j + 1];
                 names[j + 1] = tname;
+
+                j--;
             }
         }
         for (int i = 0; i < n; i++) Console.WriteLine($"{names[i]}: {marks[i]}");
-       
+
+        Console.WriteLine("OK, let's sort based on our name again");
+        for (int i = 1; i < n; i++)
+        {
+            int j = i - 1;
+            while (j >= 0 && (names[j]).CompareTo(names[j+1]) == 1)
+            {
+                int tmark = marks[j];
+                marks[j] = marks[j + 1];
+                marks[j + 1] = tmark;
+
+                string tname = names[j];
+                names[j] = names[j + 1];
+                names[j + 1] = tname;
+
+                j--;
+            }
+        }
+        for (int i = 0; i < n; i++) Console.WriteLine($"{names[i]}: {marks[i]}");
+
+
+
+
+
+        Console.WriteLine("\nHang on boy, last game! Calculate if a matriculation number is valid");
+        Console.Write("Please enter a matriculation number!");
+        string[] level = { "O", "P", "Q", "R", "S" };
+        string s = Console.ReadLine();
+        s = s.ToUpper();
+        int sum = 0;
+        for(int i = 0; i < s.Length; i++)
+        {
+            if (s[i] < '0' || s[i] > '9') continue;
+            sum += (s[i] - '0') * (7 - i);
+        }
+        sum = sum % 5;
+        if (level[sum] == s[s.Length - 1].ToString()) Console.WriteLine("It's right");
+        else Console.WriteLine("It's false");
     }
 }
