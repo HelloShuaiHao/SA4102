@@ -172,17 +172,17 @@ public class ExerciseD
 
         Console.WriteLine("Alright, we are gonna to guess the number again, the number is between 0 and 9");
         Random rnd = new Random();
-        int guessNumber = rnd.Next(0, 9);
-        Console.WriteLine(guessNum);
-        int youGuess = Convert.ToInt32(Console.ReadLine());
-        int count = 1;
-        while(youGuess != guessNum)
+        int guessNumber = rnd.Next(0, 10);
+        int youGuess;
+        int count = 0;
+        do
         {
-            Console.WriteLine("I am sorry, please try again");
+            Console.WriteLine("Enter a number");
             youGuess = Convert.ToInt32(Console.ReadLine());
             count++;
             if (count == 3) break;
-        }
+        } while (youGuess!=guessNumber);
+        
         if(count == 1)
         {
             Console.WriteLine("You are a Wizard!");
@@ -307,6 +307,8 @@ public class ExerciseF
 {
     public static void homeworkF()
     {
+
+        
         Console.WriteLine("We are programming tocount the number of vowels in a given phrase and print out the number of each vowel");
         string phrase = Console.ReadLine();
 
@@ -413,52 +415,28 @@ public class ExerciseF
 
 
 
+
+
+
+
+
         Console.WriteLine("Good, let's do some ranking");
         string[] names = new string[] { "John", "Venkat", "Mary", "Victor", "Betty" };
-        int[] marks = new int[] { 63, 29, 75, 82, 55 };
-        Console.WriteLine("Let's sort based on our marks first");
-        int n = marks.Length;
-        for(int i = 1; i < n; i++)
-        {
-            int j = i - 1;
-            while(j>=0 && marks[j] < marks[j + 1])
-            {
-                int tmark = marks[j];
-                marks[j] = marks[j + 1];
-                marks[j + 1] = tmark;
+        string[] marks = new string[] { "5", "4", "3", "2", "1" };
+        int[] index = new int[] { 0, 1, 2, 3, 4 };
+        QuickSort(ref marks, 0, marks.Length - 1);
 
-                string tname = names[j];
-                names[j] = names[j + 1];
-                names[j + 1] = tname;
-
-                j--;
-            }
-        }
-        for (int i = 0; i < n; i++) Console.WriteLine($"{names[i]}: {marks[i]}");
-
-        Console.WriteLine("OK, let's sort based on our name again");
-        for (int i = 1; i < n; i++)
-        {
-            int j = i - 1;
-            while (j >= 0 && (names[j]).CompareTo(names[j+1]) == 1)
-            {
-                int tmark = marks[j];
-                marks[j] = marks[j + 1];
-                marks[j + 1] = tmark;
-
-                string tname = names[j];
-                names[j] = names[j + 1];
-                names[j + 1] = tname;
-
-                j--;
-            }
-        }
-        for (int i = 0; i < n; i++) Console.WriteLine($"{names[i]}: {marks[i]}");
+        for (int i = 0; i < marks.Length; i++) Console.WriteLine(marks[i]);
 
 
 
 
 
+
+
+
+
+        /*
         Console.WriteLine("\nHang on boy, last game! Calculate if a matriculation number is valid");
         Console.Write("Please enter a matriculation number!");
         string[] level = { "O", "P", "Q", "R", "S" };
@@ -472,6 +450,51 @@ public class ExerciseF
         }
         sum = sum % 5;
         if (level[sum] == s[s.Length - 1].ToString()) Console.WriteLine("It's right");
-        else Console.WriteLine("It's false");
+        else Console.WriteLine("It's false");*/
+    }
+
+
+
+
+
+
+    /// <summary>
+    /// Quick Sort
+    /// </summary>
+    /// <param name="nums"></param>
+    /// <param name="l"></param>
+    /// <param name="r"></param>
+    public static void QuickSort(ref string[] nums, int l, int r)
+    {
+        if (l >= r) return;
+
+        int partitionPoint = Partition(ref nums, l, r);
+
+        QuickSort(ref nums, l, partitionPoint - 1);
+        QuickSort(ref nums, partitionPoint + 1, r);
+    }
+
+    public static int Partition(ref string[] nums, int l,  int r)
+    {
+        int smallerPointer = l - 1;
+        for(int i = l; i < r; i++)
+        {
+            if (nums[i].CompareTo(nums[r]) == -1)
+            {
+                smallerPointer++;
+                Swap(ref nums, smallerPointer, i);
+            }
+        }
+        smallerPointer++;
+        Swap(ref nums, r, smallerPointer);
+
+        return smallerPointer;
+    }
+
+    public static void Swap(ref string[] nums, int i, int j)
+    {
+        string t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
     }
 }

@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/bin/Debug/net7.0/Exercise H
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/bin/Debug/net7.0/Exercise H.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/bin/Debug/net7.0/Exercise H.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/bin/Debug/net7.0/Exercise H.dll
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/bin/Debug/net7.0/Exercise H.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.dll
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/refint/Exercise H.dll
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/Exercise H.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Exercise/homework/Exercise H/Exercise H/Exercise H/obj/Debug/net7.0/ref/Exercise H.dll

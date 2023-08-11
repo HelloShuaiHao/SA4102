@@ -13,6 +13,6 @@ namespace SolB
             string s = Console.ReadLine();
             double x = Convert.ToDouble(s);
             Console.WriteLine("{0:0.000}", Math.Round(Math.Sqrt(x),3));
-        }
+         }
     }
 }

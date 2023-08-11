@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{25D39854-D220-470E-80B0-AD9BE52294C6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Exercise_220G PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise G/G3.cs">
+    <Files>
+      <File FileName="Exercise G/Program.cs" Line="9" Column="33" />
+      <File FileName="Exercise G/G1.cs" Line="7" Column="10" />
+      <File FileName="Exercise G/G2.cs" Line="32" Column="37" />
+      <File FileName="Exercise G/G3.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise G" expanded="True">
+            <Node name="Exercise G">
+              <Node name="G3.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
