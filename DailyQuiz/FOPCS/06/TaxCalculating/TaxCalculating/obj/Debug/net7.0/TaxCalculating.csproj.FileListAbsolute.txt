@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/bin/Debug/net7.0/TaxCalculating
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/bin/Debug/net7.0/TaxCalculating.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/bin/Debug/net7.0/TaxCalculating.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/bin/Debug/net7.0/TaxCalculating.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/bin/Debug/net7.0/TaxCalculating.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/refint/TaxCalculating.dll
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.pdb
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/TaxCalculating.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/DailyQuiz/06/TaxCalculating/TaxCalculating/obj/Debug/net7.0/ref/TaxCalculating.dll

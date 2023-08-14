@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{83A4275B-DD27-4F99-9053-A545737B4F38}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ColorChangingLamp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorChangingLamp/Lamp.cs">
+    <Files>
+      <File FileName="ColorChangingLamp/Program.cs" Line="11" Column="65" />
+      <File FileName="ColorChangingLamp/Lamp.cs" Line="34" Column="5" />
+      <File FileName="ColorChangingLamp/ColorEnum.cs" Line="14" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorChangingLamp" expanded="True">
+            <Node name="ColorChangingLamp">
+              <Node name="Lamp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ColorChangingLamp" expanded="True">
+            <Node name="ColorChangingLamp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
