@@ -8,7 +8,7 @@ Lamp colorchangingLamp = new Lamp();
 string info;
 do
 {
-    Console.Write("Please enter command: on/off/showcolor/quit: ");
+    Console.Write("Please enter command~ on/off/showcolor/quit: ");
     info = Console.ReadLine();
     info = info.ToLower();
     if(info == "on")

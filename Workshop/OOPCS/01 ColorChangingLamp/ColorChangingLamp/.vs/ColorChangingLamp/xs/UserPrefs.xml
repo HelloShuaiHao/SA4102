@@ -6,18 +6,18 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ColorChangingLamp/Lamp.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorChangingLamp/ColorEnum.cs">
     <Files>
-      <File FileName="ColorChangingLamp/Program.cs" Line="11" Column="65" />
-      <File FileName="ColorChangingLamp/Lamp.cs" Line="34" Column="5" />
-      <File FileName="ColorChangingLamp/ColorEnum.cs" Line="14" Column="17" />
+      <File FileName="ColorChangingLamp/Program.cs" Line="24" Column="6" />
+      <File FileName="ColorChangingLamp/Lamp.cs" Line="37" Column="4" />
+      <File FileName="ColorChangingLamp/ColorEnum.cs" Line="4" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ColorChangingLamp" expanded="True">
-            <Node name="ColorChangingLamp">
-              <Node name="Lamp.cs" selected="True" />
+            <Node name="ColorChangingLamp" expanded="True">
+              <Node name="ColorEnum.cs" selected="True" />
             </Node>
           </Node>
         </State>

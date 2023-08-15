@@ -31,14 +31,16 @@ namespace ColorChangingLamp
 			}
 			else
 			{
-				Console.WriteLine("The light is on");
+				Console.WriteLine("The light is already on");
 			}
 
 		}
 		public void TurnOff()
 		{
 			if (isOn) isOn = false;
-		}
+
+			else Console.WriteLine("The light is already off");
+        }
 		public void ShowCurrentColor()
 		{
 			Console.WriteLine("color: {0}",this.color);
