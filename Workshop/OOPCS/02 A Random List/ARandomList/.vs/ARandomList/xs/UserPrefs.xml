@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{691B8AB9-EE6B-4A15-BAAB-941FEE6DEB6F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ARandomList/01RandomList.cs">
+    <Files>
+      <File FileName="ARandomList/Program.cs" Line="39" Column="17" />
+      <File FileName="ARandomList/01RandomList.cs" Line="53" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARandomList" expanded="True">
+            <Node name="ARandomList">
+              <Node name="01RandomList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ARandomList PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

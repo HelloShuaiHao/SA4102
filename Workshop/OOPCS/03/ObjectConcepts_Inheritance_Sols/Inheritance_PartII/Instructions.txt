@@ -1,0 +1,11 @@
+﻿Given that:
+-	A Savings Account earns 1% interest; but balance may not be negative.
+-	A Current Account earns 0.25% interest; but balance may not be negative.
+-	An Overdraft Account earns 0.25% interest for positive balance; but is required to pay 6% interest for negative balance; balance may be negative.
+
+Tasks (it's best if you follow the following order):
+1.	Implement class SavingsAccount, derived from Account. Write code to test the class in Test::Main() method.
+2.	Implement class CurrentAcount, derived from Account. Write code to test the class in Test::Main() method.
+3.	Move the common method CalculateInterest() and CreditInterest() to the super class Account, and override them in the derived class SavingsAccount and CurrentAcount when necessary. Test the two classes again.
+4.	Implement class OverdraftAccount, derived from BankAccount. Write code to test the class in Test::Main() method.
+You may need to modify class Account, SavingsAccount and CurrentAccount when necessary to support the inheritance hierarchy.

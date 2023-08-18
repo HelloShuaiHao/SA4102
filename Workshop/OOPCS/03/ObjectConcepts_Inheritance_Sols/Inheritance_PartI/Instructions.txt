@@ -1,0 +1,13 @@
+﻿1.	Write C# code to implement Account class as described in the given Account.cs file. 
+The attributes are: 
+•	acctNumber : string
+•	acctHolderId : string
+•	balance : double
+
+The methods are: 
+•	Withdraw(double amt) 
+•	Deposit(double amt) 
+•	TransferTo(double amt, Account another) 
+
+2.	Complete method Test::Main() to test class Account.
+

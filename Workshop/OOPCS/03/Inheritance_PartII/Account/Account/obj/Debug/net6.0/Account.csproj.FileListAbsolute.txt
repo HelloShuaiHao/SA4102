@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/bin/Debug/net6.0/Account
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/bin/Debug/net6.0/Account.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/bin/Debug/net6.0/Account.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/bin/Debug/net6.0/Account.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/bin/Debug/net6.0/Account.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/refint/Account.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/Account.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/03/Inheritance_PartII/Account/Account/obj/Debug/net6.0/ref/Account.dll
