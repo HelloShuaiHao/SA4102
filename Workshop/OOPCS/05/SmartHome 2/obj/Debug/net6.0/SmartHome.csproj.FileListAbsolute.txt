@@ -1,0 +1,15 @@
+/Users/cherwah/git_repos/OOPCS/SmartHome/bin/Debug/net6.0/SmartHome
+/Users/cherwah/git_repos/OOPCS/SmartHome/bin/Debug/net6.0/SmartHome.deps.json
+/Users/cherwah/git_repos/OOPCS/SmartHome/bin/Debug/net6.0/SmartHome.runtimeconfig.json
+/Users/cherwah/git_repos/OOPCS/SmartHome/bin/Debug/net6.0/SmartHome.dll
+/Users/cherwah/git_repos/OOPCS/SmartHome/bin/Debug/net6.0/SmartHome.pdb
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.csproj.AssemblyReference.cache
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.AssemblyInfoInputs.cache
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.AssemblyInfo.cs
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.csproj.CoreCompileInputs.cache
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.dll
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/refint/SmartHome.dll
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.pdb
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/SmartHome.genruntimeconfig.cache
+/Users/cherwah/git_repos/OOPCS/SmartHome/obj/Debug/net6.0/ref/SmartHome.dll

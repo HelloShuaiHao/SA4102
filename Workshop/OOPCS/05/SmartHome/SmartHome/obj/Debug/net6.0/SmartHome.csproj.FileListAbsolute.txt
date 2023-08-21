@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/bin/Debug/net6.0/SmartHome
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/bin/Debug/net6.0/SmartHome.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/bin/Debug/net6.0/SmartHome.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/bin/Debug/net6.0/SmartHome.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/bin/Debug/net6.0/SmartHome.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/refint/SmartHome.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/SmartHome.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/05/SmartHome/SmartHome/obj/Debug/net6.0/ref/SmartHome.dll
