@@ -1,14 +1,25 @@
 ﻿<Properties StartupConfiguration="{78C38086-B009-412D-B0B3-89605B547839}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartHome/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SmartHome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartHome/Lamp.cs">
     <Files>
-      <File FileName="SmartHome/Program.cs" Line="1" Column="1" />
+      <File FileName="SmartHome/Program.cs" />
+      <File FileName="SmartHome/MachineType.cs" Line="8" Column="3" />
+      <File FileName="SmartHome/Machine.cs" Line="27" Column="32" />
+      <File FileName="SmartHome/Fridge.cs" />
+      <File FileName="SmartHome/IHealth.cs" Line="9" Column="12" />
+      <File FileName="SmartHome/HealthChecker.cs" />
+      <File FileName="SmartHome/Lamp.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SmartHome" expanded="True">
             <Node name="SmartHome" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Lamp.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -16,10 +27,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SmartHome PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

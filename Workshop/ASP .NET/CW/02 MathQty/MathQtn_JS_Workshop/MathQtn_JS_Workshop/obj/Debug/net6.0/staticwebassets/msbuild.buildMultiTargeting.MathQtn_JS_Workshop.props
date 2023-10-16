@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MathQtn_JS_Workshop.props" />
+</Project>

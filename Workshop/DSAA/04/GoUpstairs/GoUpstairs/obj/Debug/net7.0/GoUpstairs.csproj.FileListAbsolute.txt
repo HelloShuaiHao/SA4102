@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/bin/Debug/net7.0/GoUpstairs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/bin/Debug/net7.0/GoUpstairs.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/bin/Debug/net7.0/GoUpstairs.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/bin/Debug/net7.0/GoUpstairs.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/bin/Debug/net7.0/GoUpstairs.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/refint/GoUpstairs.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/GoUpstairs.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/04/GoUpstairs/GoUpstairs/obj/Debug/net7.0/ref/GoUpstairs.dll

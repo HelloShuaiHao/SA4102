@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Recursive_reverse_str/1.0.0": {
+        "runtime": {
+          "Recursive_reverse_str.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursive_reverse_str/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

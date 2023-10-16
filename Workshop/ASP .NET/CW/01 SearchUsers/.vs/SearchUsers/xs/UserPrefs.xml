@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{08BABF63-B8A9-4F01-8C69-F8D26A15A796}|Default">
+  <MonoDevelop.Ide.ItemProperties.SearchUsers PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchUsers/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="SearchUsers/Models/User.cs" />
+      <File FileName="SearchUsers/Program.cs" />
+      <File FileName="SearchUsers/Models/ErrorViewModel.cs" />
+      <File FileName="SearchUsers/Controllers/HomeController.cs" />
+      <File FileName="SearchUsers/Views/Home/Index.cshtml" Line="7" Column="1" />
+      <File FileName="SearchUsers/wwwroot/css/site.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SearchUsers" expanded="True">
+            <Node name="SearchUsers" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

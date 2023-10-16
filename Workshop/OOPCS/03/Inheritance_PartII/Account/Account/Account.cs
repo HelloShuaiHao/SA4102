@@ -30,7 +30,7 @@ namespace OOPCS_Workshop_Inheritance_PartII
         /// <summary>
         /// Empty Account Constructor
         /// </summary>
-        public Account(){}
+        
 
         /// <summary>
         /// Property of acctNumber

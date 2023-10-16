@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{EE3E0A7E-E6B6-4FF0-8FEB-B56C1B90F003}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VisitCounts/Controllers/Middleware/MyMiddleware.cs">
+    <Files>
+      <File FileName="VisitCounts/Views/Home/Index.cshtml" Line="5" Column="19" />
+      <File FileName="VisitCounts/Views/_ViewImports.cshtml" Line="3" Column="11" />
+      <File FileName="VisitCounts/Views/_ViewStart.cshtml" Line="2" Column="22" />
+      <File FileName="VisitCounts/Program.cs" Line="36" Column="27" />
+      <File FileName="VisitCounts/Controllers/HomeController.cs" Line="7" Column="19" />
+      <File FileName="VisitCounts/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="VisitCounts/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="VisitCounts/Views/Shared/_Layout.cshtml" Line="19" Column="1" />
+      <File FileName="VisitCounts/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="VisitCounts/Controllers/GalleryController.cs" Line="1" Column="1" />
+      <File FileName="VisitCounts/Controllers/StatsController.cs" Line="16" Column="90" />
+      <File FileName="VisitCounts/Views/Gallery/Index.cshtml" Line="7" Column="31" />
+      <File FileName="VisitCounts/Views/Stats/Index.cshtml" Line="6" Column="44" />
+      <File FileName="VisitCounts/Controllers/Middleware/MyMiddleware.cs" Line="19" Column="1" />
+      <File FileName="VisitCounts/Models/Count.cs" Line="12" Column="23" />
+      <File FileName="VisitCounts/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="VisitCounts/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VisitCounts" expanded="True">
+            <Node name="VisitCounts">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VisitCounts PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

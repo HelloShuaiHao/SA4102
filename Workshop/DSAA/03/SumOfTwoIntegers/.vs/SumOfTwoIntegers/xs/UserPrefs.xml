@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FF74DC25-459D-4778-BCDF-1756BEBD6A53}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SumOfTwoIntegers/Program.cs">
+    <Files>
+      <File FileName="SumOfTwoIntegers/Program.cs" Line="14" Column="6" />
+      <File FileName="SumOfTwoIntegers/Solution.cs" Line="4" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SumOfTwoIntegers" expanded="True">
+            <Node name="SumOfTwoIntegers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SumOfTwoIntegers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

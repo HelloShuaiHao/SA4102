@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/bin/Debug/net7.0/Recursive_str_len
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/bin/Debug/net7.0/Recursive_str_len.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/bin/Debug/net7.0/Recursive_str_len.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/bin/Debug/net7.0/Recursive_str_len.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/bin/Debug/net7.0/Recursive_str_len.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/refint/Recursive_str_len.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/Recursive_str_len.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_str_len/Recursive_str_len/obj/Debug/net7.0/ref/Recursive_str_len.dll

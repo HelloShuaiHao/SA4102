@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{40E9B256-B511-4359-93DB-E4E6C2B6269B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueueOrStack/CheckBalance.cs">
+    <Files>
+      <File FileName="QueueOrStack/Program.cs" Line="9" Column="19" />
+      <File FileName="QueueOrStack/CheckBalance.cs" Line="59" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueueOrStack" expanded="True">
+            <Node name="QueueOrStack">
+              <Node name="CheckBalance.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.QueueOrStack PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

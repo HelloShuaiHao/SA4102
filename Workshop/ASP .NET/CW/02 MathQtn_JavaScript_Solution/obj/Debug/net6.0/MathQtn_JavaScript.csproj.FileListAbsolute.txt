@@ -1,0 +1,92 @@
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.Development.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.staticwebassets.runtime.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.deps.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.runtimeconfig.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.dll
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.pdb
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.csproj.AssemblyReference.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfoInputs.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.csproj.CoreCompileInputs.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.MvcApplicationPartsAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cs
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.MathQtn_JavaScript.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.build.MathQtn_JavaScript.props
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MathQtn_JavaScript.props
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MathQtn_JavaScript.props
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.build.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.development.json
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/bundle/MathQtn_JavaScript.styles.css
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/projectbundle/MathQtn_JavaScript.bundle.scp.css
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.dll
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/refint/MathQtn_JavaScript.dll
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.pdb
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.genruntimeconfig.cache
+/Users/cherwah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/ref/MathQtn_JavaScript.dll
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.staticwebassets.runtime.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.exe
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.deps.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.runtimeconfig.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.dll
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.pdb
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfoInputs.cache
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfo.cs
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.csproj.CoreCompileInputs.cache
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cache
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cs
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.MathQtn_JavaScript.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.build.MathQtn_JavaScript.props
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MathQtn_JavaScript.props
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MathQtn_JavaScript.props
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/bundle/MathQtn_JavaScript.styles.css
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/projectbundle/MathQtn_JavaScript.bundle.scp.css
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.dll
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/refint/MathQtn_JavaScript.dll
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.pdb
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.genruntimeconfig.cache
+C:/Users/Tan Cher Wah/git_repos/NET3/Solutions/MathQtn_JavaScript/obj/Debug/net6.0/ref/MathQtn_JavaScript.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.Development.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/appsettings.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.staticwebassets.runtime.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/bin/Debug/net6.0/MathQtn_JavaScript.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.RazorAssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.MathQtn_JavaScript.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.build.MathQtn_JavaScript.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MathQtn_JavaScript.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MathQtn_JavaScript.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/bundle/MathQtn_JavaScript.styles.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/scopedcss/projectbundle/MathQtn_JavaScript.bundle.scp.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/refint/MathQtn_JavaScript.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/MathQtn_JavaScript.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/CW/MathQtn_JavaScript/obj/Debug/net6.0/ref/MathQtn_JavaScript.dll

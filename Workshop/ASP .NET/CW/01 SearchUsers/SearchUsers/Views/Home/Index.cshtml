@@ -1,0 +1,28 @@
+﻿@* Unpack data from corresponding controller *@
+@{
+    var info = ViewBag.info; // runtime装入
+    ViewData["Title"] = "Search Users";
+}
+
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Job Title</th>
+        <th>Gender</th>
+    </tr>
+
+    @for(int i = 0; i < info.Count; i++)
+    {
+            var user = info[i]; // 获取元素
+            string GenderType = user.Gender; 
+
+            <tr class = @GenderType>
+                <td>@user.Name</td>
+                <td>@user.JobTitle</td>
+                <td>@user.Gender</td>
+            </tr>
+    }
+
+</table>
+

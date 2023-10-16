@@ -1,0 +1,69 @@
+--  Userview
+
+/* Ex 1 */
+create view customer2016  as
+select c.customerid,c.companyname,p.productid,p.productname,o.orderdate
+from customers c,products p,orders o,[order details] od
+where c.customerid=o.customerid
+and od.orderid=o.orderid
+and od.productid=p.productid and strftime('%Y',o.order)= '2016'
+group by c.customerid,c.companyname,p.productid,p.productname,o.orderdate
+
+select * from customer2016
+
+/* Ex 2 */
+select c.companyname as customername,p.productname,s.companyname as suppliername
+from customer2016 c,suppliers s,products p
+where p.supplierid=s.supplierid
+and c.productid=p.productid
+group by c.companyname,p.productname,s.companyname
+
+/* Ex 3 */ 
+
+select c.companyname,count(distinct productid)as [number of products]
+from customer2016 c
+group by c.companyname
+
+/* Ex 4a */ 
+-- create a view to represent total business made by each customers
+Create view CustomerOrderSum as
+select sum(quantity*unitprice) as CustomerTotal, 
+       Orders.CustomerID
+from [order details], orders
+where orders.orderid=[order details].orderid
+group by Orders.CustomerID
+
+/* Ex 4b */ 
+-- get the total business and divide by the number of customers
+select sum(CustomerTotal) / count(CustomerID)
+from customerOrderSum
+
+/* Other questions... please attempt yourself */
+
+-- Stored Procedures
+
+/* Ex 1 */
+
+create proc MyProc1 
+as
+begin
+	select * from customers
+	where membercategory='A' 
+end
+
+exec MyProc1
+
+
+
+/* Ex 2 */
+create proc MyProc2(@MC char(2)) 
+as
+begin
+	select * from customers
+	where membercategory=@MC 
+end
+
+exec MyProc2 @MC='B'
+exec MyProc2 @MC='Z'
+
+/* Other questions... please attempt yourself */

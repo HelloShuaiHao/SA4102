@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MathQtn_JavaScript/1.0.0": {
+        "runtime": {
+          "MathQtn_JavaScript.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathQtn_JavaScript/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

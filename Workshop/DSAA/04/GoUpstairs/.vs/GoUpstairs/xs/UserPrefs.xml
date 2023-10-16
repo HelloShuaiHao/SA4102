@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{974F84C5-4506-4B72-AD8B-AA7899F422D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoUpstairs/Solution.cs">
+    <Files>
+      <File FileName="GoUpstairs/Program.cs" Line="1" Column="1" />
+      <File FileName="GoUpstairs/Solution.cs" Line="7" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoUpstairs" expanded="True">
+            <Node name="GoUpstairs">
+              <Node name="Solution.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoUpstairs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,322 @@
+Note: In some question, there may be more than 1 approach!
+===
+
+-- Workshop on SQL Query
+-- 1 a)
+select * from Shippers;
+
+-- 1 b)
+select * from Shippers
+order By CompanyName;
+
+-- 2 a)
+select FirstName,LastName,Title,BirthDate,City
+from Employees;
+
+-- 2 b)
+select Distinct Title
+from Employees;
+
+-- 3)
+
+-- SQL Server
+select * from Orders
+where OrderDate='19 May 1997';
+
+-- MySQL
+select * from Orders
+where date_format(OrderDate, '%d %M %Y') ='19 May 1997';
+
+-- 4)
+select * from Customers
+where City='London'
+or City='Madrid';
+
+-- 5)
+select CustomerID,ContactName
+from Customers
+where Country='UK'
+order By ContactName;
+
+
+-- 6)
+select OrderID,OrderDate
+from Orders
+where CustomerID='HANAR';
+
+
+-- 7)
+-- SQLServer Syntax
+select(TitleOfCourtesy+FirstName+LastName) as EmployeeName
+from Employees order by LastName;
+
+-- MySQL Syntax
+select concat( TitleOfCourtesy, " ", FirstName, " ", LastName) as EmployeeName
+from Employees order by LastName;
+
+-- 8)
+-- Using subquery
+select OrderID,OrderDate
+from Orders where CustomerId in 
+	(select Customerid 
+	 from Customers
+     where Companyname ='Maison Dewey');
+
+-- Using join
+select OrderID,OrderDate
+from Orders,Customers
+where Orders.CustomerID=Customers.CustomerID
+and Customers.CompanyName='Maison Dewey';
+
+-- 9)
+select * from products
+where productname like '%lager%';
+
+-- 10)
+select CustomerID,ContactName
+from Customers
+where CustomerID not IN (select distinct CustomerID
+                         from Orders);
+
+-- 11)
+select avg (unitprice) 
+from products
+
+-- 12)
+select distinct city 
+from customers
+
+-- 13)
+select count(distinct customerid) 
+from orders
+
+-- 14)
+select CompanyName, Phone
+from Customers 
+where fax is null
+
+-- 15)
+select sum (UnitPrice * Quantity)
+from [Order Details]
+
+-- 16)
+select OrderID
+from orders
+where orders.CustomerID in
+	(select CustomerID 
+	 from Customers
+	 where Customers.CompanyName in ('Alan Out', 'Blone Coy'))
+
+-- 17)
+select CustomerID, count(*)
+from orders
+group by customerid
+
+-- 18)
+select CompanyName, Orders.OrderID
+from Customers, orders
+where Customers.CustomerID = orders.CustomerID and
+      Customers.customerid ='BONAP'
+order by CompanyName
+
+
+
+-- 19)
+a) select count(*), O.CustomerID,C.CompanyName
+from Orders O INNER JOIN Customers C
+ON C.CustomerID=O.CustomerID
+group by O.CustomerID, c.companyname
+having count(*) > 10 order by count(*);
+
+b) select count(*), O.CustomerID,C.CompanyName from Orders O INNER JOIN Customers C
+ON C.CustomerID=O.CustomerID and c.customerid ='BONAP'
+group by O.CustomerID, c.companyname
+
+c) select count(*), O.CustomerID,C.CompanyName
+from Orders O INNER JOIN Customers C
+ON C.CustomerID=O.CustomerID
+group by O.CustomerID, c.companyname
+having count(*) > (select count(*) from Orders O INNER JOIN Customers C
+ON C.CustomerID=O.CustomerID and c.customerid ='BONAP'
+group by O.CustomerID)
+
+
+-- 20a)
+select ProductID, ProductName from Products
+where CategoryID in (1,2)
+order by ProductID, ProductName;
+
+-- 20b)
+-- Using Join
+select ProductName 
+from Products P
+INNER JOIN Categories C ON P.CategoryID=C.CategoryID
+where CategoryName in('Beverages','Condiments');
+
+-- Using SubQuery
+select ProductName 
+from Products P
+where CategoryID in
+      (Select CategoryID from Categories
+		where CategoryName in ('Beverages','Condiments'));
+
+
+-- 21 a)
+select Count(EmployeeID) as 'Number Of Employees'
+from Employees;
+
+-- 21 b)
+select Count(EmployeeID) as 'Number Of Employees'
+from Employees
+where Country='USA';
+
+
+
+-- 22)
+--  orders are administered by employee 
+select o.*
+from Orders o, Employees e, Shippers s 
+where e.EmployeeID= o.EmployeeID
+and o.ShipVia = s.ShipperID
+and e.Title='Sales Representative'
+and s.CompanyName='United Package';
+
+-- using inner join syntax
+select orders.* from Orders inner join Employees on
+	Employees.EmployeeID=Orders.EmployeeID 
+	inner join Shippers  on
+	Orders.ShipVia=Shippers.ShipperID and 
+	Employees.Title='Sales Representative'
+	and  Shippers.CompanyName='United Package'
+
+
+-- 23)
+select staff.LastName  + ' ' + staff.FirstName as Employee,  
+       manager.LastName + ' ' + manager.FirstName as Manager
+from Employees staff, Employees manager
+where staff.ReportsTo = manager.EmployeeID;
+
+-- using outer join, all employee will be listed
+select staff.LastName + ' ' + staff.FirstName as Employee,  
+       manager.LastName + ' ' + manager.FirstName as Manager
+from Employees staff left outer join Employees manager
+on staff.ReportsTo = manager.EmployeeID;
+
+
+-- 24)
+   
+
+-- SQL Server
+select top 5 p.productname,sum(od.discount * od.unitprice * od.quantity) 
+from [order details] od, products p
+where p.productid = od.productid 
+group by p.productid, p.productname
+order by sum (od.unitprice * od.quantity * od.discount) desc
+
+-- MySQL
+select p.productname, sum(od.discount * od.unitprice * od.quantity) as DiscountGiven
+from products p, `order details` od
+where p.productid = od.productid
+and p.productid = od.productid
+group by p.productid, p.productname
+order by DiscountGiven desc limit 5;
+
+-- 25)
+select C.ContactName from Customers C
+where C.City not in (select Distinct City from Suppliers);
+
+
+-- 26)
+Select C.City
+from Customers C, Suppliers S
+where C.City= S.City;
+
+-- 27 a)
+select C.ContactName as 'Business Associates Name',C.Address,C.Phone from Customers C
+Union 
+Select S.ContactName,S.Address,S.Phone from Suppliers S;
+
+-- 27 b)
+select companyname as 'Business associate name',Address,phone from customers
+union
+select companyname as 'Business associate name',Address,phone from suppliers
+union 
+select companyname as 'Business associate name',null, phone from shippers;
+
+-- 28)
+select OrderID, staff.FirstName as staff, mgr.FirstName as mgr
+from orders, Employees staff, Employees mgr
+where orders.EmployeeID = staff.EmployeeID and
+      staff.ReportsTo = mgr.EmployeeID and 
+	  orderid = 10248
+
+
+-- 29)
+select ProductID, ProductName
+from Products
+where UnitPrice > (select AVG(unitprice)
+					from Products)
+										
+-- 30)
+
+select orderid,sum(quantity*unitprice) from [order details]
+group by orderid
+having 
+sum(quantity*unitprice)>10000;
+
+
+-- 31)
+select [order details].orderid,orders.customerid,sum(quantity*unitprice)
+from [order details],orders
+where [order details].orderid=orders.orderid
+group by [order details].orderid,orders.customerid
+having
+sum(quantity*unitprice)>10000;
+
+-- 32)
+select [order details].orderid,orders.customerid,companyname,sum(quantity*unitprice)
+from [order details],orders,customers
+where [order details].orderid=orders.orderid
+and customers.customerid=orders.customerid
+group by [order details].orderid,orders.customerid,companyname
+having sum(quantity*unitprice)>10000;
+
+-- 33)
+select customerid,sum(quantity*unitprice) as Amount
+from [order details],orders
+where orders.orderid=[order details].orderid
+group by customerid;
+
+-- 34) 
+-- Get average business of a customer is equivalent to total business divided
+-- by number of customer
+select sum(quantity*unitprice) /  count(distinct(orders.customerid) ) as Amount
+from [order details], orders
+where orders.orderid=[order details].orderid
+
+-- 35) 
+-- list customers with business more than average business
+select customers.customerid, customers.CompanyName, sum(quantity*unitprice) as Amount
+from [order details], orders, Customers
+where orders.orderid=[order details].orderid and
+     Customers.CustomerID = orders.CustomerID
+group by customers.CustomerID, Customers.CompanyName
+having sum(quantity*unitprice)  > 
+ (select sum(quantity*unitprice) /  count(distinct(orders.customerid) ) as Amount
+  from [order details], orders
+  where orders.orderid=[order details].orderid
+ ) 
+order by Amount
+
+
+-- 36)
+-- retrieve total (order date falls within the year 1997)
+select customerid, sum(quantity*unitprice) as Amount
+from [order details],orders
+where orders.orderid=[order details].orderid
+      and year(orderdate)=1997
+group by customerid
+
+
+
+

@@ -8,7 +8,7 @@ public class MainTest
         List<Machine> machineList = new List<Machine>();
 
         Random rnd = new Random();
-        int attempt = rnd.Next(5, 12);
+        int attempt = rnd.Next(5, 12 );
 
         Lamp newLamp = new Lamp("Living room lamp");
         Fridge newFridge = new Fridge("Kitchen fridge");

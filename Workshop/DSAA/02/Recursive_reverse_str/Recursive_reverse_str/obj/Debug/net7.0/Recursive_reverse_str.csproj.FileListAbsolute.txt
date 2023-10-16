@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/bin/Debug/net7.0/Recursive_reverse_str
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/bin/Debug/net7.0/Recursive_reverse_str.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/bin/Debug/net7.0/Recursive_reverse_str.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/bin/Debug/net7.0/Recursive_reverse_str.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/bin/Debug/net7.0/Recursive_reverse_str.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/refint/Recursive_reverse_str.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/Recursive_reverse_str.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/02/Recursive_reverse_str/Recursive_reverse_str/obj/Debug/net7.0/ref/Recursive_reverse_str.dll

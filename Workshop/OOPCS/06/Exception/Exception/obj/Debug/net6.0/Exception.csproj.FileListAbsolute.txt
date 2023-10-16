@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/bin/Debug/net6.0/Exception
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/bin/Debug/net6.0/Exception.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/bin/Debug/net6.0/Exception.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/bin/Debug/net6.0/Exception.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/bin/Debug/net6.0/Exception.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/refint/Exception.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/Exception.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/OOPCS/06/Exception/Exception/obj/Debug/net6.0/ref/Exception.dll

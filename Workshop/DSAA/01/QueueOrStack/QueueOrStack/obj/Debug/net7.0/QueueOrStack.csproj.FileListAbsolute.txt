@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/bin/Debug/net7.0/QueueOrStack
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/bin/Debug/net7.0/QueueOrStack.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/bin/Debug/net7.0/QueueOrStack.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/bin/Debug/net7.0/QueueOrStack.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/bin/Debug/net7.0/QueueOrStack.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/refint/QueueOrStack.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/QueueOrStack.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/QueueOrStack/QueueOrStack/obj/Debug/net7.0/ref/QueueOrStack.dll

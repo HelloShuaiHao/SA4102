@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/mac/Desktop/GDipSA/SA4102/Workshop/SQL/northwind.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="8137"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,29:mainAlphabetical list of products"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">-- 12) Prepare a list of cities where customers reside in. The list should not contain any duplicate cities.
+/*
+SELECT DISTINCT City
+FROM Customers*/
+
+-- 13) Retrieve the number of customers who has made orders.
+/*
+SELECT Count(Distinct Orders.CustomerID) AS NumberOfCustomersWhoHasMadeOrders
+FROM Orders*/
+
+-- 14) Retrieve the company name and phone number of customers that do not have any fax number captured.
+/*
+SELECT CompanyName, Phone
+FROM Customers
+WHERE Fax is NULL
+*/
+
+-- 15) Retrieve the total sales made. Assume sales is equal to unit price * quantity.
+/*
+SELECT Sum(UnitPrice * Quantity) AS TotalSales
+FROM [Order Details]*/
+
+
+-- 16) List order ids made by customer 'Alan Out' and 'Blone Coy’
+/*
+SELECT OrderID
+FROM Orders
+WHERE Orders.CustomerID in 
+(
+SELECT Customers.CustomerID
+FROM Customers
+WHERE Customers.CompanyName in ('Alfreds Futterkiste')
+)*/
+
+-- 17 Prepare a list of customer ids and the number of orders made by the customers.
+/*
+SELECT CustomerID, Count(*) AS Numbers
+FROM Orders
+GROUP BY CustomerID
+ORDER BY Count(*) DESC
+*/
+
+-- 18 Retrieve company name for the customer id ‘BONAP’, and also order ids made by him.
+/*
+Select OrderID
+From Orders
+Where Orders.CustomerID in (Select CustomerID From Customers Where CustomerID = 'BONAP')
+*/
+
+
+-- 19
+-- a. Retrieve the number of orders made, IDs and company names of all customers that have made more than 10 orders. The retrieved list should be display in the descending order of ‘number of orders made’.
+/*
+Select OrderID, CompanyName, Count(*)  AS OrderMade
+FROM Orders, Customers
+Group By CompanyName
+HAVING Count(*) &gt; 10
+ORDER By Count(*) DESC
+*/
+
+-- b. Retrieve the number of orders made, IDs and company names for the customer with customer id ‘BONAP’.
+/*
+Select Count(*), O.CustomerID, C.CompanyName
+From Orders O
+Inner Join Customers C
+On O.CustomerID = C.CustomerID and c.CustomerID = 'BONAP'
+GROUP by C.CustomerID
+*/
+
+-- c. Retrieve the number of orders made, IDs and company names of all customers that have more orders than customer with customer id ‘BONAP’.
+/*
+SELECT C.CustomerID, C.CompanyName, Count(*) As OrderMade
+From Orders O
+Inner Join Customers C
+On O.CustomerID = C.CustomerID 
+Group By C.CustomerID
+HAVING Count(*) &gt; (SELECT  Count(*) 
+From Orders O
+Inner Join Customers C
+On O.CustomerID = C.CustomerID and C.CustomerID = 'BONAP'
+Group By C.CustomerID)
+Order By Count(*)
+*/
+
+-- 20.a. Prepare a Product list belonging to Beverages and Condiments categories (you may use in your SQL statement Categories Codes 1 and 2). The list should be sorted on Product code and Product Name.
+/*
+Select ProductID, ProductName
+From Products
+Where CategoryID  In (1,2)
+Order By ProductID, ProductName
+*/
+
+-- b. How would the above query change if you are not provided category codes but only the names &quot;Beverages&quot;, &quot;Condiments&quot; for retrieval. Would this require a join or subquery?
+/*Select ProductName
+From Products P
+Inner Join Categories C
+On P.CategoryID = C.CategoryID 
+Where C.CategoryName in ( 'Beverages', 'Condiments')*/
+
+--21) a. How many employees do we have in our organization?
+/*
+Select Count(DISTINCT E.EmployeeID) As NumOfEmployees
+From Employees E
+*/
+
+-- b. How many employees do we have in USA?
+/*
+Select Count(*)
+From Employees
+Where Country = 'USA'*/
+
+
+-- 22) Retrieve all details of Orders administered by persons who hold the designation Sales Representative and shipped by United Package.
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

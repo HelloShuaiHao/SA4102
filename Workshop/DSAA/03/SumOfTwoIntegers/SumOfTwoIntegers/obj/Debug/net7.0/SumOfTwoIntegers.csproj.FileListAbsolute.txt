@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/bin/Debug/net7.0/SumOfTwoIntegers
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/bin/Debug/net7.0/SumOfTwoIntegers.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/bin/Debug/net7.0/SumOfTwoIntegers.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/bin/Debug/net7.0/SumOfTwoIntegers.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/bin/Debug/net7.0/SumOfTwoIntegers.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/refint/SumOfTwoIntegers.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/SumOfTwoIntegers.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/03/SumOfTwoIntegers/SumOfTwoIntegers/obj/Debug/net7.0/ref/SumOfTwoIntegers.dll

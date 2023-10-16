@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{145156BA-F40C-4112-9DFF-3505EFA0DB8A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exception/BadTriangleException.cs">
+    <Files>
+      <File FileName="Exception/Program.cs" Line="10" Column="13" />
+      <File FileName="Exception/Triangle.cs" Line="2" Column="13" />
+      <File FileName="Exception/BadTriangleException.cs" Line="20" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exception" expanded="True">
+            <Node name="Exception" expanded="True">
+              <Node name="BadTriangleException.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Exception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

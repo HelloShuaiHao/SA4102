@@ -1,0 +1,57 @@
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/appsettings.Development.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/appsettings.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.staticwebassets.runtime.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.exe
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.deps.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.runtimeconfig.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.dll
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/bin/Debug/net6.0/Routing Workshop.pdb
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.csproj.AssemblyReference.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.AssemblyInfoInputs.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.AssemblyInfo.cs
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.csproj.CoreCompileInputs.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.MvcApplicationPartsAssemblyInfo.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.RazorAssemblyInfo.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.RazorAssemblyInfo.cs
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/staticwebassets.build.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/staticwebassets.development.json
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/scopedcss/bundle/Routing Workshop.styles.css
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/scopedcss/projectbundle/Routing Workshop.bundle.scp.css
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.dll
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/refint/Routing Workshop.dll
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.pdb
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/Routing Workshop.genruntimeconfig.cache
+D:/OneDrive - National University of Singapore/My ISS Working/DotNetCore/Workshops/Code/Routing Workshop/obj/Debug/net6.0/ref/Routing Workshop.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/appsettings.Development.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/appsettings.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop.staticwebassets.runtime.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/bin/Debug/net6.0/Routing Workshop.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.RazorAssemblyInfo.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.RazorAssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets/msbuild.Routing Workshop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets/msbuild.build.Routing Workshop.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Routing Workshop.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Routing Workshop.props
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/scopedcss/bundle/Routing Workshop.styles.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/scopedcss/projectbundle/Routing Workshop.bundle.scp.css
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/refint/Routing Workshop.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/Routing Workshop.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/ASP .NET/Routing Workshop/obj/Debug/net6.0/ref/Routing Workshop.dll

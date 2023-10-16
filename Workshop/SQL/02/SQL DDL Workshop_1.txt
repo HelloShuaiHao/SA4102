@@ -1,0 +1,86 @@
+-- Workshop on SQL DDL
+
+
+1)
+CREATE TABLE MemberCategories
+(MemberCategory nVarChar(2) NOT NULL,
+ MemberCatDescription nVarChar(200) NOT NULL,
+PRIMARY KEY (MemberCategory)
+)
+
+2)
+INSERT INTO MemberCategories(MemberCategory,MemberCatDescription) VALUES ('A','Class A Members');
+INSERT INTO MemberCategories(MemberCategory,MemberCatDescription) VALUES ('B','Class B Members');
+INSERT INTO MemberCategories(MemberCategory,MemberCatDescription) VALUES ('C','Class C Members');
+
+3)CREATE TABLE GoodCustomers
+(CustomerName nVarChar(50), 
+Address nVarChar(65),
+PhoneNumber nVarChar(9),
+MemberCategory nVarChar(2),
+PRIMARY KEY(CustomerName,PhoneNumber),
+FOREIGN KEY(MemberCategory) REFERENCES MemberCategories (MemberCategory)
+)
+
+4)INSERT INTO GoodCustomers(CustomerName,PhoneNumber,MemberCategory)
+SELECT CustomerName,PhoneNumber,MemberCategory FROM Customers
+WHERE MemberCategory in ('A','B')
+
+
+5)INSERT INTO GoodCustomers(CustomerName,PhoneNumber,MemberCategory)
+VALUES ('TracyTan','736572','B')
+
+6)
+INSERT INTO GoodCustomers VALUES('Grace Leong','15 Bukit Purmei Road,Singapore 0904','278865','A')
+
+
+7)INSERT INTO GoodCustomers VALUES('Lynn Lim','15 Bukit Purmei Road,Singapore 0904','278865','P')
+-- violation of referential integrity
+
+8)UPDATE GoodCustomers SET Address='22 Bukit Purmei Road,Singapore 0904'
+WHERE CustomerName ='Grace Leong'
+
+9)
+ UPDATE GoodCustomers SET GoodCustomers.MemberCategory='B'
+ WHERE GoodCustomers.CustomerName IN 
+ (SELECT CustomerName 
+  FROM Customers
+  WHERE Customers.CustomerID='5108');
+
+
+-- alternate syntax for SQLServer database
+ UPDATE GoodCustomers SET MemberCategory='B'
+ FROM Customers c
+ WHERE GoodCustomers.CustomerName = c.CustomerName AND c.CustomerID='5108'
+ 
+
+10)DELETE FROM GoodCustomers
+WHERE CustomerName='Grace Leong'
+
+11)DELETE FROM GoodCustomers
+WHERE MemberCategory='B'
+
+12)ALTER TABLE GoodCustomers
+ADD FaxNumber nVarChar(25)
+
+13)ALTER TABLE GoodCustomers
+ALTER COLUMN Address nVarChar(80)
+
+14)ALTER TABLE GoodCustomers
+ADD ICNumber nVarChar(10)
+
+15)CREATE UNIQUE INDEX ICNumber_idx ON GoodCustomers (ICNumber)
+-- command failed as there are duplicate values in the column ICNumber (null value in all columns)
+   
+16)CREATE INDEX FaxNumber_idx ON GoodCustomers (FaxNumber)
+
+17) DROP INDEX FaxNumber_idx ON GoodCustomers
+--  Alternate syntax for SQL Server
+    DROP INDEX GoodCustomers.FaxNumber_idx
+
+18)ALTER TABLE GoodCustomers
+   DROP COLUMN FaxNumber 
+
+19) DELETE FROM GoodCustomers
+
+20) DROP TABLE GoodCustomers

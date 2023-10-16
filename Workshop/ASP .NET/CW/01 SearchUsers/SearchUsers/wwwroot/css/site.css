@@ -1,0 +1,35 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+td,th{
+    border: 1px solid #0060ff;
+    text-align: center;
+    padding: 8px;
+}
+
+.M{
+    background-color: yellow;
+}
+
+.F{
+    background-color: red;
+}
+
+

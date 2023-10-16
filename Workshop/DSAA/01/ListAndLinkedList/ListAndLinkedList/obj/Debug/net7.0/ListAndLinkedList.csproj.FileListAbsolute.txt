@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/bin/Debug/net7.0/ListAndLinkedList
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/bin/Debug/net7.0/ListAndLinkedList.deps.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/bin/Debug/net7.0/ListAndLinkedList.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/bin/Debug/net7.0/ListAndLinkedList.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/bin/Debug/net7.0/ListAndLinkedList.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/refint/ListAndLinkedList.dll
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.pdb
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ListAndLinkedList.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/SA4102/Workshop/DSAA/01/ListAndLinkedList/ListAndLinkedList/obj/Debug/net7.0/ref/ListAndLinkedList.dll
